@@ -1,0 +1,5 @@
+﻿2021-04-21 17:14:36.6679|DEBUG|NlogDempProject.Nlog|Debug Successfull : Sum()
+2021-04-21 17:14:36.7736|ERROR|NlogDempProject.Nlog|Expecting null values
+2021-04-21 17:14:36.7736|WARN|NlogDempProject.Nlog|a or b should not equal to 0
+2021-04-21 17:14:36.7736|DEBUG|NlogDempProject.Nlog|Debug Successfull : Sum()
+2021-04-21 17:14:36.7736|INFO|NlogDempProject.Nlog|Sum method passed, Result2
